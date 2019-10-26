@@ -1,3 +1,7 @@
+# Customfin
+
+Customfin is a platform where user can order and design their own coffins. Our motto is to make someone's death meaningful.  This project purpose is to present at Beefest. Created using Laravel.
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
